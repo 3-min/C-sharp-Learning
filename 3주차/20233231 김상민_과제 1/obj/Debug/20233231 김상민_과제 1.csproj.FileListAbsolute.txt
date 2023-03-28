@@ -1,9 +1,0 @@
-C:\Users\Student\Desktop\20233231 김상민_과제 1\bin\Debug\20233231 김상민_과제 1.exe.config
-C:\Users\Student\Desktop\20233231 김상민_과제 1\bin\Debug\20233231 김상민_과제 1.exe
-C:\Users\Student\Desktop\20233231 김상민_과제 1\bin\Debug\20233231 김상민_과제 1.pdb
-C:\Users\Student\Desktop\20233231 김상민_과제 1\obj\Debug\20233231 김상민_과제 1.csprojResolveAssemblyReference.cache
-C:\Users\Student\Desktop\20233231 김상민_과제 1\obj\Debug\_20233231_김상민_과제_1.Form1.resources
-C:\Users\Student\Desktop\20233231 김상민_과제 1\obj\Debug\_20233231_김상민_과제_1.Properties.Resources.resources
-C:\Users\Student\Desktop\20233231 김상민_과제 1\obj\Debug\20233231 김상민_과제 1.csproj.GenerateResource.Cache
-C:\Users\Student\Desktop\20233231 김상민_과제 1\obj\Debug\20233231 김상민_과제 1.exe
-C:\Users\Student\Desktop\20233231 김상민_과제 1\obj\Debug\20233231 김상민_과제 1.pdb
