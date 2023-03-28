@@ -1,0 +1,8 @@
+C:\Users\Student\Desktop\20233231 김상민_과제2\bin\Debug\20233231 김상민_과제2.exe.config
+C:\Users\Student\Desktop\20233231 김상민_과제2\bin\Debug\20233231 김상민_과제2.exe
+C:\Users\Student\Desktop\20233231 김상민_과제2\bin\Debug\20233231 김상민_과제2.pdb
+C:\Users\Student\Desktop\20233231 김상민_과제2\obj\Debug\_20233231_김상민_과제2.Form1.resources
+C:\Users\Student\Desktop\20233231 김상민_과제2\obj\Debug\_20233231_김상민_과제2.Properties.Resources.resources
+C:\Users\Student\Desktop\20233231 김상민_과제2\obj\Debug\20233231 김상민_과제2.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\20233231 김상민_과제2\obj\Debug\20233231 김상민_과제2.exe
+C:\Users\Student\Desktop\20233231 김상민_과제2\obj\Debug\20233231 김상민_과제2.pdb
