@@ -1,0 +1,9 @@
+c:\users\student\documents\visual studio 2013\Projects\20233231 김상민_과제1\bin\Debug\20233231 김상민_과제1.exe.config
+c:\users\student\documents\visual studio 2013\Projects\20233231 김상민_과제1\bin\Debug\20233231 김상민_과제1.exe
+c:\users\student\documents\visual studio 2013\Projects\20233231 김상민_과제1\bin\Debug\20233231 김상민_과제1.pdb
+c:\users\student\documents\visual studio 2013\Projects\20233231 김상민_과제1\obj\Debug\20233231 김상민_과제1.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\20233231 김상민_과제1\obj\Debug\_20233231_김상민_과제1.Form1.resources
+c:\users\student\documents\visual studio 2013\Projects\20233231 김상민_과제1\obj\Debug\_20233231_김상민_과제1.Properties.Resources.resources
+c:\users\student\documents\visual studio 2013\Projects\20233231 김상민_과제1\obj\Debug\20233231 김상민_과제1.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2013\Projects\20233231 김상민_과제1\obj\Debug\20233231 김상민_과제1.exe
+c:\users\student\documents\visual studio 2013\Projects\20233231 김상민_과제1\obj\Debug\20233231 김상민_과제1.pdb
