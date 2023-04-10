@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\과제1.cs\과제1.cs\obj\Debug\과제1.cs.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\과제1.cs\과제1.cs\obj\Debug\과제1.cs.Form1.resources
+C:\Users\user\source\repos\과제1.cs\과제1.cs\obj\Debug\과제1.cs.Properties.Resources.resources
+C:\Users\user\source\repos\과제1.cs\과제1.cs\obj\Debug\과제1.cs.csproj.GenerateResource.cache
+C:\Users\user\source\repos\과제1.cs\과제1.cs\obj\Debug\과제1.cs.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\과제1.cs\과제1.cs\bin\Debug\과제1.cs.exe.config
+C:\Users\user\Desktop\과제1.cs\과제1.cs\bin\Debug\과제1.cs.exe
+C:\Users\user\Desktop\과제1.cs\과제1.cs\bin\Debug\과제1.cs.pdb
+C:\Users\user\Desktop\과제1.cs\과제1.cs\obj\Debug\과제1.cs.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\과제1.cs\과제1.cs\obj\Debug\과제1.cs.Form1.resources
+C:\Users\user\Desktop\과제1.cs\과제1.cs\obj\Debug\과제1.cs.Properties.Resources.resources
+C:\Users\user\Desktop\과제1.cs\과제1.cs\obj\Debug\과제1.cs.csproj.GenerateResource.cache
+C:\Users\user\Desktop\과제1.cs\과제1.cs\obj\Debug\과제1.cs.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\과제1.cs\과제1.cs\obj\Debug\과제1.cs.exe
+C:\Users\user\Desktop\과제1.cs\과제1.cs\obj\Debug\과제1.cs.pdb
