@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\과제_4\과제_4\bin\Debug\과제_4.exe.config
+C:\Users\user\source\repos\과제_4\과제_4\bin\Debug\과제_4.exe
+C:\Users\user\source\repos\과제_4\과제_4\bin\Debug\과제_4.pdb
+C:\Users\user\source\repos\과제_4\과제_4\obj\Debug\과제_4.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\과제_4\과제_4\obj\Debug\과제_4.Form1.resources
+C:\Users\user\source\repos\과제_4\과제_4\obj\Debug\과제_4.Properties.Resources.resources
+C:\Users\user\source\repos\과제_4\과제_4\obj\Debug\과제_4.csproj.GenerateResource.cache
+C:\Users\user\source\repos\과제_4\과제_4\obj\Debug\과제_4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\과제_4\과제_4\obj\Debug\과제_4.exe
+C:\Users\user\source\repos\과제_4\과제_4\obj\Debug\과제_4.pdb
