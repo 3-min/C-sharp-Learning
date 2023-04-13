@@ -1,0 +1,8 @@
+C:\Users\Student\Desktop\20233231 과제_3\bin\Debug\20233231 과제_3.exe.config
+C:\Users\Student\Desktop\20233231 과제_3\bin\Debug\20233231 과제_3.exe
+C:\Users\Student\Desktop\20233231 과제_3\bin\Debug\20233231 과제_3.pdb
+C:\Users\Student\Desktop\20233231 과제_3\obj\Debug\_20233231_과제_3.Form1.resources
+C:\Users\Student\Desktop\20233231 과제_3\obj\Debug\_20233231_과제_3.Properties.Resources.resources
+C:\Users\Student\Desktop\20233231 과제_3\obj\Debug\20233231 김상민_과제3.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\20233231 과제_3\obj\Debug\20233231 과제_3.exe
+C:\Users\Student\Desktop\20233231 과제_3\obj\Debug\20233231 과제_3.pdb

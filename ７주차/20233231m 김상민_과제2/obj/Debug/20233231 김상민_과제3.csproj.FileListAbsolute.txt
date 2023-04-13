@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\20233231m 김상민_과제2\bin\Debug\20233231m 김상민_과제2.exe.config
+C:\Users\Student\Desktop\20233231m 김상민_과제2\obj\Debug\20233231m 김상민_과제2.exe
+C:\Users\Student\Desktop\20233231m 김상민_과제2\obj\Debug\20233231m 김상민_과제2.pdb
+C:\Users\Student\Desktop\20233231 김상민_7주차\20233231m 김상민_과제2\bin\Debug\20233231m 김상민_과제2.exe.config
+C:\Users\Student\Desktop\20233231 김상민_7주차\20233231m 김상민_과제2\obj\Debug\20233231m 김상민_과제2.exe
+C:\Users\Student\Desktop\20233231 김상민_7주차\20233231m 김상민_과제2\obj\Debug\20233231m 김상민_과제2.pdb
