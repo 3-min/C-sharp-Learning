@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\시험대비_8\시험대비_8\bin\Debug\시험대비_8.exe.config
+C:\Users\user\source\repos\시험대비_8\시험대비_8\bin\Debug\시험대비_8.exe
+C:\Users\user\source\repos\시험대비_8\시험대비_8\bin\Debug\시험대비_8.pdb
+C:\Users\user\source\repos\시험대비_8\시험대비_8\obj\Debug\시험대비_8.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\시험대비_8\시험대비_8\obj\Debug\시험대비_8.Form1.resources
+C:\Users\user\source\repos\시험대비_8\시험대비_8\obj\Debug\시험대비_8.Properties.Resources.resources
+C:\Users\user\source\repos\시험대비_8\시험대비_8\obj\Debug\시험대비_8.csproj.GenerateResource.cache
+C:\Users\user\source\repos\시험대비_8\시험대비_8\obj\Debug\시험대비_8.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\시험대비_8\시험대비_8\obj\Debug\시험대비_8.exe
+C:\Users\user\source\repos\시험대비_8\시험대비_8\obj\Debug\시험대비_8.pdb

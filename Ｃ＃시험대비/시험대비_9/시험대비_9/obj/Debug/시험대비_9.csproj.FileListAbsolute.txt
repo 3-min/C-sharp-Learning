@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\시험대비_9\시험대비_9\bin\Debug\시험대비_9.exe.config
+C:\Users\user\source\repos\시험대비_9\시험대비_9\bin\Debug\시험대비_9.exe
+C:\Users\user\source\repos\시험대비_9\시험대비_9\bin\Debug\시험대비_9.pdb
+C:\Users\user\source\repos\시험대비_9\시험대비_9\obj\Debug\시험대비_9.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\시험대비_9\시험대비_9\obj\Debug\시험대비_9.Form1.resources
+C:\Users\user\source\repos\시험대비_9\시험대비_9\obj\Debug\시험대비_9.Properties.Resources.resources
+C:\Users\user\source\repos\시험대비_9\시험대비_9\obj\Debug\시험대비_9.csproj.GenerateResource.cache
+C:\Users\user\source\repos\시험대비_9\시험대비_9\obj\Debug\시험대비_9.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\시험대비_9\시험대비_9\obj\Debug\시험대비_9.exe
+C:\Users\user\source\repos\시험대비_9\시험대비_9\obj\Debug\시험대비_9.pdb
