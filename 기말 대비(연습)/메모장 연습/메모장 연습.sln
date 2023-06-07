@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "메모장 연습", "메모장 연습\메모장 연습.csproj", "{8018CC4A-303A-4348-9986-9FF8BC67BF7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8018CC4A-303A-4348-9986-9FF8BC67BF7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8018CC4A-303A-4348-9986-9FF8BC67BF7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8018CC4A-303A-4348-9986-9FF8BC67BF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8018CC4A-303A-4348-9986-9FF8BC67BF7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72799474-F8E1-4637-9C95-D1CCE8419ED0}
+	EndGlobalSection
+EndGlobal

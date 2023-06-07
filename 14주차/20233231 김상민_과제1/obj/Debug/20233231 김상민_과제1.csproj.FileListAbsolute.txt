@@ -7,3 +7,13 @@ C:\Users\Student\Desktop\20233231 김상민_과제1\bin\Debug\20233231 김상민
 C:\Users\Student\Desktop\20233231 김상민_과제1\bin\Debug\20233231 김상민_과제1.pdb
 C:\Users\Student\Desktop\20233231 김상민_과제1\obj\Debug\20233231 김상민_과제1.exe
 C:\Users\Student\Desktop\20233231 김상민_과제1\obj\Debug\20233231 김상민_과제1.pdb
+C:\Users\user\Desktop\Inje\P&N\GitHub\C-sharp-Learning\14주차\20233231 김상민_과제1\bin\Debug\20233231 김상민_과제1.exe.config
+C:\Users\user\Desktop\Inje\P&N\GitHub\C-sharp-Learning\14주차\20233231 김상민_과제1\bin\Debug\20233231 김상민_과제1.exe
+C:\Users\user\Desktop\Inje\P&N\GitHub\C-sharp-Learning\14주차\20233231 김상민_과제1\bin\Debug\20233231 김상민_과제1.pdb
+C:\Users\user\Desktop\Inje\P&N\GitHub\C-sharp-Learning\14주차\20233231 김상민_과제1\obj\Debug\20233231 김상민_과제1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Inje\P&N\GitHub\C-sharp-Learning\14주차\20233231 김상민_과제1\obj\Debug\_20233231_김상민_과제1.Form1.resources
+C:\Users\user\Desktop\Inje\P&N\GitHub\C-sharp-Learning\14주차\20233231 김상민_과제1\obj\Debug\_20233231_김상민_과제1.Properties.Resources.resources
+C:\Users\user\Desktop\Inje\P&N\GitHub\C-sharp-Learning\14주차\20233231 김상민_과제1\obj\Debug\20233231 김상민_과제1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Inje\P&N\GitHub\C-sharp-Learning\14주차\20233231 김상민_과제1\obj\Debug\20233231 김상민_과제1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Inje\P&N\GitHub\C-sharp-Learning\14주차\20233231 김상민_과제1\obj\Debug\20233231 김상민_과제1.exe
+C:\Users\user\Desktop\Inje\P&N\GitHub\C-sharp-Learning\14주차\20233231 김상민_과제1\obj\Debug\20233231 김상민_과제1.pdb
